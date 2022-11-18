@@ -1,1 +1,1 @@
-Exercico para controle financeiro do usuário
+Exercicio para controle financeiro do usuário
